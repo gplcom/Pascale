@@ -1,16 +1,13 @@
- 
 <!DOCTYPE html>
 <html lang="fr">
 	<head>
 		<title>Développeur WEB et Multi Media</title>
 		<meta charset="utf-8">
 		<link rel="stylesheet" type="text/css" href="css/style.css">
-		<meta name= "description" content="développeur-web  et Multi-Media "gpl-Pascale" propose des services polyvalents en Sales et  Marketing WEB et plan de communication multi-média et d'optimisation des actions sur un marché ciblé dans un but commercial: élaboration d'un concept de vente en relation avec tous les Médias passant par la création de portails et sites internet avec référencement intelligent et naturel allié à des Campagnes de Promotion et de Marketing Direct et Relationnel et par diffusion multi-canal:/>
-<meta name="keywords" content="site-internet,portail-web,stratégie,vente,sales,marketing,communication,media;médias,multi-canal,sms,email,mms,campagne,push-link,notification,social-media,webdesign,designer-web, webmaster,création; conception,publicité,maquette, publicitaire,compte,réseaux-sociaux,référencement,optimisation, SEO,positionnement-internet,recherche,websearch,sales-network,
-événementiel,événements,sport,santé,animation,promotion,"/>
+		<meta name="description" content="développeur-web et Multi-Media gpl-Pascale propose des services polyvalents en Sales et  Marketing WEB et plan de communication multi-média et d'optimisation des actions sur un marché ciblé dans un but commercial: élaboration d'un concept de vente en relation avec tous les Médias passant par la création de portails et sites internet avec référencement intelligent et naturel allié à des Campagnes de Promotion et de Marketing Direct et Relationnel et par diffusion multi-canal."/>	
+        <meta name="keywords" content="site-internet,portail-web,stratégie,vente,sales,marketing,communication,media,médias,multi-canal,sms,email,mms,campagne,push-link, notification,social-media,webdesign,designer-web, webmaster,création, conception,publicité,maquette, publicitaire,compte,réseaux-sociaux,référencement,optimisation, SEO,positionnement-internet,recherche,websearch,sales-network,événementiel,événements,sport,santé,animation,promotion,"/>
 	</head>
 	<body> 	
-
 	<header> 
 		<span class="centre">
 		<h1 class="name">SKILLS & COMPETENCES</h1>
@@ -21,23 +18,14 @@
 	    <p style="font-weight: bold; font-size: 16px; color: grey">EXPERIENCE PROFESSIONNELLE</p>
 	    </span>
 <!-- 			
-
 <p>communication événementielle - sale & marketing - commerce électronique</p>
-
-
 -->
-
 	<content>
-
-
 <span class="encadre exemple_margin">
 	CONCEPTION<br>
 	PROMOTION<br>
 	VENTES<br>
 </span>
-
-
-
 <div class="bloc1">
 <span><br>
 	FRANÇAIS<br>
@@ -49,8 +37,6 @@
 <div class="decalage">
     <p>Langues de négociation</p>
   </div>
-
-
 <div>
 			<!-- p>
 			french resume december 2018
@@ -58,21 +44,16 @@
 			</p> -->
 		</div>
 		
-
-
 </div>
-
 </content>
 <section>
    
  
-
 		<div  class="img" id="picture1">
 			<p><img src="logo2.jpg" style="float:left;">Communication événementielle par le sport et l'animation sportive et de santé "triangle Organisation"<br>
 			Sales & Marketing Développement:immobilier de loisir Hotels & Resorts 5 stars affiliate RCI et Interval International<br>
 			Innovation<br>
 			Biotechnologie<br>
-
 			</p>
 			
 		</div>
@@ -82,8 +63,6 @@
 		<p><img src="logo2.jpg" style="float:left;">
 			Marketing opétationnel<br>
 			Generation program<br>
-
-
 		</p>
 			
 		</div>
@@ -95,18 +74,13 @@
 	 		WebMarketing<br>
 	 		WebDesign<br>
 	 		WebSearch<br>
-
-
 	 		</p>
 		</div>
 		
 	
 </section>
-
-
 		<footer> 
 			
-
 			<p> &copy; gpl-Pascale </p><a href="mailto:gplcom@yahoo.es">Send an email</a>
             <p><h1 class="mane">MARKETING</h1></p>			
             <p style="font-style:italic;">POLYVALENCE</p>
@@ -116,81 +90,3 @@
 	</body>
 	
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
