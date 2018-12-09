@@ -2,10 +2,12 @@
 <!DOCTYPE html>
 <html lang="fr">
 	<head>
-		<title>Developper WEB et Multi Media</title>
+		<title>Développeur WEB et Multi Media</title>
 		<meta charset="utf-8">
 		<link rel="stylesheet" type="text/css" href="css/style.css">
-		
+		<meta name= "description" content="développeur-web  et Multi-Media "gpl-Pascale" propose des services polyvalents en Sales et  Marketing WEB et plan de communication multi-média et d'optimisation des actions sur un marché ciblé dans un but commercial: élaboration d'un concept de vente en relation avec tous les Médias passant par la création de portails et sites internet avec référencement intelligent et naturel allié à des Campagnes de Promotion et de Marketing Direct et Relationnel et par diffusion multi-canal:/>
+<meta name="keywords" content="site-internet,portail-web,stratégie,vente,sales,marketing,communication,media;médias,multi-canal,sms,email,mms,campagne,push-link,notification,social-media,webdesign,designer-web, webmaster,création; conception,publicité,maquette, publicitaire,compte,réseaux-sociaux,référencement,optimisation, SEO,positionnement-internet,recherche,websearch,sales-network,
+événementiel,événements,sport,santé,animation,promotion,"/>
 	</head>
 	<body> 	
 
@@ -20,7 +22,7 @@
 	    </span>
 <!-- 			
 
-<p>communication évènementielle - sale & marketing - commerce electronique</p>
+<p>communication événementielle - sale & marketing - commerce électronique</p>
 
 
 -->
@@ -67,7 +69,7 @@
 
 		<div  class="img" id="picture1">
 			<p><img src="logo2.jpg" style="float:left;">Communication événementielle par le sport et l'animation sportive et de santé "triangle Organisation"<br>
-			Sales & Marketing Développement:immobilier de loisir Hotels & Resorts 5 stars affiliate RCI et Interval Internationnal<br>
+			Sales & Marketing Développement:immobilier de loisir Hotels & Resorts 5 stars affiliate RCI et Interval International<br>
 			Innovation<br>
 			Biotechnologie<br>
 
@@ -88,7 +90,7 @@
 	    <div  class="img" id="picture3">
 				
 	 		<p><img src="logo2.jpg" style="float:left;">
-	 		Strategie de developpement commercial<br>
+	 		Stratégie de développement commercial<br>
 	 		Sales Network<br>
 	 		WebMarketing<br>
 	 		WebDesign<br>
