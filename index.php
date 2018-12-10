@@ -21,23 +21,24 @@
 <p>communication événementielle - sale & marketing - commerce électronique</p>
 -->
      <section>
-	     <section id="fondecran" alt="Photo chat bionique" title="nouvelles technologies" >
-	     
+	     <section id="fondecran" alt="Photo chat bionique" title="nouvelles technologies" font-color="blue" style="color:#0093f4">
          <span class="encadre exemple_margin">
+
 	CONCEPTION<br>
 	PROMOTION<br>
 	VENTES<br>
          </span>
      <div class="bloc1">
-<span><br>
+         <span><p style="color:#0019f4">
 	FRANÇAIS<br>
 	ENGLISH<br>
 	PO RUCCKI<br>
 	CASTELLANO<br>
-	ITALIANO<br>
-</span>
+	ITALIANO
+         </p>
+         </span>       
      <div class="decalage">
-    <p>Langues de négociation</p>
+    <p style="color:#000000">Langues de négociation</p>
         </div>
         <div>
 			<!-- p>
@@ -45,14 +46,11 @@
 			<p> WEBMASTER - WEB-MARKETING PROJECT
 			</p> -->
 		</div>
-		
+	 </div>
 
-</div>
-</section>
 </section>
 <section>
-   
- 
+    
 		<div  class="img" id="picture1">
 			<p><img src="logo2.jpg" style="float:left;">Communication événementielle par le sport et l'animation sportive et de santé "triangle Organisation"<br>
 			Sales & Marketing Développement:immobilier de loisir Hotels & Resorts 5 stars affiliate RCI et Interval International<br>
