@@ -4,15 +4,15 @@
 		<title>Développeur WEB et Multi Media</title>
 		<meta charset="utf-8">
 		<link rel="stylesheet" type="text/css" href="css/style.css">
-		<meta name="description" content="développeur-web et Multi-Media gpl-Pascale propose des services polyvalents en Sales et  Marketing WEB et plan de communication multi-média et d'optimisation des actions sur un marché ciblé dans un but commercial: élaboration d'un concept de vente en relation avec tous les Médias passant par la création de portails et sites internet avec référencement intelligent et naturel allié à des Campagnes de Promotion et de Marketing Direct et Relationnel et par diffusion multi-canal."/>	
-        <meta name="keywords" content="site-internet,portail-web,stratégie,vente,sales,marketing,communication,media,médias,multi-canal,sms,email,mms,campagne,push-link, notification,social-media,webdesign,designer-web, webmaster,création, conception,publicité,maquette, publicitaire,compte,réseaux-sociaux,référencement,optimisation, SEO,positionnement-internet,recherche,websearch,sales-network,événementiel,événements,sport,santé,animation,promotion,"/>
-	</head>
-	<body> 	
+		<meta name="description" section="développeur-web et Mullti-Media gpl-Pascale propose des services polyvalents en Sales et Marketing WEB et plan de communication multi-média et d'optimisation des actions sur un marché ciblé dans un but commercial: élaboration d'un concept de vente en relation avec tous les Médias passant par la création de portails et sites internet avec référencement intelligent et naturel allié à des Campagnes de Promotion et de Marketing Direct et Relationnel et par diffusion multi-canal."/>	
+        <meta name="keywords" section="site-internet,portail-web,stratégie,vente,sales,marketing,communication,media,médias,multi-canal,sms,email,mms,campagne,push-link, notification,social-media,webdesign,designer-web, webmaster,création, conception,publicité,maquette, publicitaire,compte,réseaux-sociaux,référencement,optimisation, SEO,positionnement-internet,recherche,websearch,sales-network,événementiel,événements,sport,santé,animation,promotion,"/>
+       	</head>
+    <body>    
 	<header> 
 		<span class="centre">
 		<h1 class="name">SKILLS & COMPETENCES</h1>
 		</span> 
-	     </p>
+	     
 	</header>
 	    <span class="centre">
 	    <p style="font-weight: bold; font-size: 16px; color: grey">EXPERIENCE PROFESSIONNELLE</p>
@@ -20,13 +20,15 @@
 <!-- 			
 <p>communication événementielle - sale & marketing - commerce électronique</p>
 -->
-	<content>
-<span class="encadre exemple_margin">
+     <section>
+	     <section id="fondecran" alt="Photo chat bionique" title="nouvelles technologies" >
+	     
+         <span class="encadre exemple_margin">
 	CONCEPTION<br>
 	PROMOTION<br>
 	VENTES<br>
-</span>
-<div class="bloc1">
+         </span>
+     <div class="bloc1">
 <span><br>
 	FRANÇAIS<br>
 	ENGLISH<br>
@@ -34,18 +36,20 @@
 	CASTELLANO<br>
 	ITALIANO<br>
 </span>
-<div class="decalage">
+     <div class="decalage">
     <p>Langues de négociation</p>
-  </div>
-<div>
+        </div>
+        <div>
 			<!-- p>
 			french resume december 2018
 			<p> WEBMASTER - WEB-MARKETING PROJECT
 			</p> -->
 		</div>
 		
+
 </div>
-</content>
+</section>
+</section>
 <section>
    
  
@@ -90,3 +94,81 @@
 	</body>
 	
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
