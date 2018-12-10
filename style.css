@@ -25,11 +25,12 @@ span{
 body{
 	
 	margin: 20px;
-padding: center;
-
-
+    padding: center;
 	background-color: #FAFAFA;
 	box-sizing: border-box;
+  /*background-image: url("../img/cat.jpg");
+  background-size: cover;
+  background-attachment: fixed;*/
 }			
 .name{
   
@@ -58,7 +59,8 @@ footer
 }
 
 section
-{	width:100%;
+{	
+  width:100%;
 	height:80%;
   position: relative;
 }
@@ -67,7 +69,12 @@ section
 	display: inline-block;
 	clear: both;
 }
-
+#fondecran{ 
+	background-image: url("../img/cat.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+    /*height: 180px;*/
+}
 #picture1{
 	border: 1px;
 
@@ -83,6 +90,7 @@ section
   
 }
 .bloc1{
+  
   text-align: center;
   position: static;
   border:2px solid black;
